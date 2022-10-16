@@ -12,7 +12,7 @@ public class multiples {
     
         public static void main (String[] args) 
         {
-            int N = 20;
+            int N = 15;
             int sum = find_sum(N);
             System.out.println(sum);
         }
